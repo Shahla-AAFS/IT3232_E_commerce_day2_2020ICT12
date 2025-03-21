@@ -57,4 +57,4 @@ This is a simple Spring Boot application that demonstrates how to set up and run
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source.
