@@ -1,4 +1,4 @@
-# My Spring Boot Application
+# My first Spring Boot Application
 
 This is a simple Spring Boot application that demonstrates how to set up and run a basic Spring Boot project. It provides a RESTful API endpoint that returns a "Hello SpringBoot" message.
 
